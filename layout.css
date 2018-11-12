@@ -1,0 +1,41 @@
+@font-face {
+	font-family: "04B_03";
+	src: url(04B_03.TTF);
+}
+
+* {
+	font-family: "04B_03";
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	background: #364457;
+	color: #627186;
+	font-size: 24px;
+	padding: 5% 0 0 30%;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+small {
+	font-size: 0.7em;
+}
+
+large {
+	font-size: 1.3em;
+}
+
+a {
+	color: #DAE1EB;
+	text-decoration: none;
+	border-bottom: 3px dotted;
+}
+
+a:hover {
+	color: #FFFFFF;
+}
